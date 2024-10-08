@@ -1,0 +1,24 @@
+Guide to use the project
+
+* Environment Setup:
+Ensure you have Node.js installed on your machine. You can download it from nodejs.org.
+
+* Run the Script:
+
+Open a terminal or command prompt.
+Navigate to the directory where localTime.js is saved. (for example: C:\Users\abc\Desktop\TimeCapture)
+
+Run the command: "Node localTime.js"
+
+Note : To run the project you must have the node installed in the computer
+
+* Output:
+
+The script will output the current local time in the format of hours, minutes, seconds, AM/PM, as well as the current year, month, date, and day of the week.
+
+for example : 
+Time : 11 : 52 : 18 PM.
+Year : 2024
+Month : 9
+Date : 2
+Day : Tuesday

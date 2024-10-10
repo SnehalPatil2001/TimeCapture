@@ -43,3 +43,6 @@ Time : 3 : 45 : 12 PM. Year : 2024 Month : 9 Date : 1 Day : Sunday
 ## License
 
 This project is open source and available for modification and distribution under the MIT License.
+
+## Output of Screenshot
+![image alt](https://github.com/SnehalPatil2001/TimeCapture/blob/06b5d3b95eb099afcc026666e41ece2a047f4324/Output_Screenshot.png)

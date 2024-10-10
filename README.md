@@ -10,6 +10,16 @@ This project is a simple JavaScript program that retrieves and displays the curr
 - Provides the current year, month, date, and day of the week.
 - Outputs the information to the console.
 
+## Prerequisites
+1.**Install Node.js**
+  -Download Node.js from the [official website](https://nodejs.org/).
+  - Follow the installation instructions for your operating system (Windows, macOS, or Linux).
+  - After installation, verify Node.js and npm (Node Package Manager) are installed by running the following commands in your terminal:
+    ```bash
+    node -v
+    npm -v
+    ```
+
 ## Code Explanation
 
 ### Variables
@@ -39,6 +49,11 @@ Time : 3 : 45 : 12 PM. Year : 2024 Month : 9 Date : 1 Day : Sunday
 
 - The month is zero-indexed (January is 0, December is 11).
 - The date is represented by the day of the month.
+
+## How to Contribute
+1. Create a branch: Work on a new feature or bug fix in a separate branch
+2. Make changes: Update the code, ensuring it adheres to the project's style and functionality.
+3. Submit a Pull Request: Share your changes for review. Be sure to describe your changes and why they are needed.
 
 ## License
 

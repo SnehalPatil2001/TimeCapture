@@ -16,6 +16,16 @@ This project is a simple JavaScript program that retrieves and displays the curr
 
 - `daylist`: An array containing the names of the days of the week.
   
+### Prerequisites
+1.**Install Node.js**
+  -Download Node.js from the [official website](https://nodejs.org/).
+  - Follow the installation instructions for your operating system (Windows, macOS, or Linux).
+  - After installation, verify Node.js and npm (Node Package Manager) are installed by running the following commands in your terminal:
+    ```bash
+    node -v
+    npm -v
+    ```
+
 ### Time Calculation
 
 - The program checks the current hour and formats the time accordingly:
@@ -43,3 +53,10 @@ Time : 3 : 45 : 12 PM. Year : 2024 Month : 9 Date : 1 Day : Sunday
 ## License
 
 This project is open source and available for modification and distribution under the MIT License.
+
+## How to Contribute
+1. Create a branch: Work on a new feature or bug fix in a separate branch
+2. Make changes: Update the code, ensuring it adheres to the project's style and functionality.
+3. Submit a Pull Request: Share your changes for review. Be sure to describe your changes and why they are needed.
+
+## Output Screenshot
